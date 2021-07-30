@@ -1,0 +1,25 @@
+[
+  {
+    "/search": {
+      "message": "Harap Ketikkan Salah satu List Command dibawah untuk fitur Search Anime!",
+      "listCmd": [
+        "animeplanet",
+        "komikfox",
+        "komikstation",
+        "kiryuu",
+        "kiss",
+        "klik",
+        "mangaku"
+        ],
+      "usage": [
+        "animeplanet&naruto",
+        "komikfox&naruto",
+        "komikstation&naruto",
+        "kiryuu&naruto",
+        "kiss&naruto",
+        "klik&naruto",
+        "mangaku&naruto"
+        ]
+    }
+  }
+  ]

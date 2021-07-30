@@ -1,0 +1,27 @@
+{
+  "name": "dhn-api-case",
+  "version": "1.0.0",
+  "description": "An Example Case Api - Wrapper for https://api.dhnjing.xyz/ ~ Dehan - Team",
+  "main": "dhn.js",
+  "scripts": {
+    "start": "node dhn.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dehan-j1ng/Dhn-Api-Case.git"
+  },
+  "keywords": [
+    "*"
+  ],
+  "author": "Dehante",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dehan-j1ng/Dhn-Api-Case/issues"
+  },
+  "homepage": "https://github.com/dehan-j1ng/Dhn-Api-Case#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.1",
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1"
+  }
+}
